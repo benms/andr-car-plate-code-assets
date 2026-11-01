@@ -1,0 +1,476 @@
+[
+  {
+    "code": "AA",
+    "regionName": "м. Київ",
+    "centerCity": "Київ",
+    "allCodes": "AA, KA, TT, TA"
+  },
+  {
+    "code": "KA",
+    "regionName": "м. Київ",
+    "centerCity": "Київ",
+    "allCodes": "AA, KA, TT, TA"
+  },
+  {
+    "code": "TT",
+    "regionName": "м. Київ",
+    "centerCity": "Київ",
+    "allCodes": "AA, KA, TT, TA"
+  },
+  {
+    "code": "TA",
+    "regionName": "м. Київ",
+    "centerCity": "Київ",
+    "allCodes": "AA, KA, TT, TA"
+  },
+  {
+    "code": "AB",
+    "regionName": "Вінницька область",
+    "centerCity": "Вінниця",
+    "allCodes": "AB, KB, MM"
+  },
+  {
+    "code": "KB",
+    "regionName": "Вінницька область",
+    "centerCity": "Вінниця",
+    "allCodes": "AB, KB, MM"
+  },
+  {
+    "code": "MM",
+    "regionName": "Вінницька область",
+    "centerCity": "Вінниця",
+    "allCodes": "AB, KB, MM"
+  },
+  {
+    "code": "AC",
+    "regionName": "Волинська область",
+    "centerCity": "Луцьк",
+    "allCodes": "AC, KC, CM"
+  },
+  {
+    "code": "KC",
+    "regionName": "Волинська область",
+    "centerCity": "Луцьк",
+    "allCodes": "AC, KC, CM"
+  },
+  {
+    "code": "CM",
+    "regionName": "Волинська область",
+    "centerCity": "Луцьк",
+    "allCodes": "AC, KC, CM"
+  },
+  {
+    "code": "AE",
+    "regionName": "Дніпропетровська область",
+    "centerCity": "Дніпро",
+    "allCodes": "AE, KE, PP, MI"
+  },
+  {
+    "code": "KE",
+    "regionName": "Дніпропетровська область",
+    "centerCity": "Дніпро",
+    "allCodes": "AE, KE, PP, MI"
+  },
+  {
+    "code": "PP",
+    "regionName": "Дніпропетровська область",
+    "centerCity": "Дніпро",
+    "allCodes": "AE, KE, PP, MI"
+  },
+  {
+    "code": "MI",
+    "regionName": "Дніпропетровська область",
+    "centerCity": "Дніпро",
+    "allCodes": "AE, KE, PP, MI"
+  },
+  {
+    "code": "AH",
+    "regionName": "Донецька область",
+    "centerCity": "Донецьк",
+    "allCodes": "AH, KH, TC"
+  },
+  {
+    "code": "KH",
+    "regionName": "Донецька область",
+    "centerCity": "Донецьк",
+    "allCodes": "AH, KH, TC"
+  },
+  {
+    "code": "TC",
+    "regionName": "Донецька область",
+    "centerCity": "Донецьк",
+    "allCodes": "AH, KH, TC"
+  },
+  {
+    "code": "AM",
+    "regionName": "Житомирська область",
+    "centerCity": "Житомир",
+    "allCodes": "AM, KM, TM"
+  },
+  {
+    "code": "KM",
+    "regionName": "Житомирська область",
+    "centerCity": "Житомир",
+    "allCodes": "AM, KM, TM"
+  },
+  {
+    "code": "TM",
+    "regionName": "Житомирська область",
+    "centerCity": "Житомир",
+    "allCodes": "AM, KM, TM"
+  },
+  {
+    "code": "AO",
+    "regionName": "Закарпатська область",
+    "centerCity": "Ужгород",
+    "allCodes": "AO, KO, MT"
+  },
+  {
+    "code": "KO",
+    "regionName": "Закарпатська область",
+    "centerCity": "Ужгород",
+    "allCodes": "AO, KO, MT"
+  },
+  {
+    "code": "MT",
+    "regionName": "Закарпатська область",
+    "centerCity": "Ужгород",
+    "allCodes": "AO, KO, MT"
+  },
+  {
+    "code": "AP",
+    "regionName": "Запорізька область",
+    "centerCity": "Запоріжжя",
+    "allCodes": "AP, KP, TR"
+  },
+  {
+    "code": "KP",
+    "regionName": "Запорізька область",
+    "centerCity": "Запоріжжя",
+    "allCodes": "AP, KP, TR"
+  },
+  {
+    "code": "TR",
+    "regionName": "Запорізька область",
+    "centerCity": "Запоріжжя",
+    "allCodes": "AP, KP, TR"
+  },
+  {
+    "code": "AT",
+    "regionName": "Івано-Франківська область",
+    "centerCity": "Івано-Франківськ",
+    "allCodes": "AT, KT, TO"
+  },
+  {
+    "code": "KT",
+    "regionName": "Івано-Франківська область",
+    "centerCity": "Івано-Франківськ",
+    "allCodes": "AT, KT, TO"
+  },
+  {
+    "code": "TO",
+    "regionName": "Івано-Франківська область",
+    "centerCity": "Івано-Франківськ",
+    "allCodes": "AT, KT, TO"
+  },
+  {
+    "code": "AI",
+    "regionName": "Київська область",
+    "centerCity": "Київ",
+    "allCodes": "AI, KI, TI, ME"
+  },
+  {
+    "code": "KI",
+    "regionName": "Київська область",
+    "centerCity": "Київ",
+    "allCodes": "AI, KI, TI, ME"
+  },
+  {
+    "code": "TI",
+    "regionName": "Київська область",
+    "centerCity": "Київ",
+    "allCodes": "AI, KI, TI, ME"
+  },
+  {
+    "code": "ME",
+    "regionName": "Київська область",
+    "centerCity": "Київ",
+    "allCodes": "AI, KI, TI, ME"
+  },
+  {
+    "code": "BA",
+    "regionName": "Кіровоградська область",
+    "centerCity": "Кропивницький",
+    "allCodes": "BA, HA"
+  },
+  {
+    "code": "HA",
+    "regionName": "Кіровоградська область",
+    "centerCity": "Кропивницький",
+    "allCodes": "BA, HA"
+  },
+  {
+    "code": "BB",
+    "regionName": "Луганська область",
+    "centerCity": "Луганськ",
+    "allCodes": "BB, HB, EE"
+  },
+  {
+    "code": "HB",
+    "regionName": "Луганська область",
+    "centerCity": "Луганськ",
+    "allCodes": "BB, HB, EE"
+  },
+  {
+    "code": "EE",
+    "regionName": "Луганська область",
+    "centerCity": "Луганськ",
+    "allCodes": "BB, HB, EE"
+  },
+  {
+    "code": "BC",
+    "regionName": "Львівська область",
+    "centerCity": "Львів",
+    "allCodes": "BC, HC, CC"
+  },
+  {
+    "code": "HC",
+    "regionName": "Львівська область",
+    "centerCity": "Львів",
+    "allCodes": "BC, HC, CC"
+  },
+  {
+    "code": "CC",
+    "regionName": "Львівська область",
+    "centerCity": "Львів",
+    "allCodes": "BC, HC, CC"
+  },
+  {
+    "code": "BE",
+    "regionName": "Миколаївська область",
+    "centerCity": "Миколаїв",
+    "allCodes": "BE, HE"
+  },
+  {
+    "code": "HE",
+    "regionName": "Миколаївська область",
+    "centerCity": "Миколаїв",
+    "allCodes": "BE, HE"
+  },
+  {
+    "code": "BH",
+    "regionName": "Одеська область",
+    "centerCity": "Одеса",
+    "allCodes": "BH, NH, OO"
+  },
+  {
+    "code": "NH",
+    "regionName": "Одеська область",
+    "centerCity": "Одеса",
+    "allCodes": "BH, NH, OO"
+  },
+  {
+    "code": "OO",
+    "regionName": "Одеська область",
+    "centerCity": "Одеса",
+    "allCodes": "BH, NH, OO"
+  },
+  {
+    "code": "BI",
+    "regionName": "Полтавська область",
+    "centerCity": "Полтава",
+    "allCodes": "BI, NI"
+  },
+  {
+    "code": "NI",
+    "regionName": "Полтавська область",
+    "centerCity": "Полтава",
+    "allCodes": "BI, NI"
+  },
+  {
+    "code": "BK",
+    "regionName": "Рівненська область",
+    "centerCity": "Рівне",
+    "allCodes": "BK, NK, SS"
+  },
+  {
+    "code": "NK",
+    "regionName": "Рівненська область",
+    "centerCity": "Рівне",
+    "allCodes": "BK, NK, SS"
+  },
+  {
+    "code": "SS",
+    "regionName": "Рівненська область",
+    "centerCity": "Рівне",
+    "allCodes": "BK, NK, SS"
+  },
+  {
+    "code": "BM",
+    "regionName": "Сумська область",
+    "centerCity": "Суми",
+    "allCodes": "BM, NM, SM"
+  },
+  {
+    "code": "NM",
+    "regionName": "Сумська область",
+    "centerCity": "Суми",
+    "allCodes": "BM, NM, SM"
+  },
+  {
+    "code": "SM",
+    "regionName": "Сумська область",
+    "centerCity": "Суми",
+    "allCodes": "BM, NM, SM"
+  },
+  {
+    "code": "BO",
+    "regionName": "Тернопільська область",
+    "centerCity": "Тернопіль",
+    "allCodes": "BO, NO"
+  },
+  {
+    "code": "NO",
+    "regionName": "Тернопільська область",
+    "centerCity": "Тернопіль",
+    "allCodes": "BO, NO"
+  },
+  {
+    "code": "AX",
+    "regionName": "Харківська область",
+    "centerCity": "Харків",
+    "allCodes": "AX, KX, XX"
+  },
+  {
+    "code": "KX",
+    "regionName": "Харківська область",
+    "centerCity": "Харків",
+    "allCodes": "AX, KX, XX"
+  },
+  {
+    "code": "XX",
+    "regionName": "Харківська область",
+    "centerCity": "Харків",
+    "allCodes": "AX, KX, XX"
+  },
+  {
+    "code": "BT",
+    "regionName": "Херсонська область",
+    "centerCity": "Херсон",
+    "allCodes": "BT, NT, XT"
+  },
+  {
+    "code": "NT",
+    "regionName": "Херсонська область",
+    "centerCity": "Херсон",
+    "allCodes": "BT, NT, XT"
+  },
+  {
+    "code": "XT",
+    "regionName": "Херсонська область",
+    "centerCity": "Херсон",
+    "allCodes": "BT, NT, XT"
+  },
+  {
+    "code": "BX",
+    "regionName": "Хмельницька область",
+    "centerCity": "Хмельницький",
+    "allCodes": "BX, NX, XM"
+  },
+  {
+    "code": "NX",
+    "regionName": "Хмельницька область",
+    "centerCity": "Хмельницький",
+    "allCodes": "BX, NX, XM"
+  },
+  {
+    "code": "XM",
+    "regionName": "Хмельницька область",
+    "centerCity": "Хмельницький",
+    "allCodes": "BX, NX, XM"
+  },
+  {
+    "code": "CA",
+    "regionName": "Черкаська область",
+    "centerCity": "Черкаси",
+    "allCodes": "CA, IA, RA"
+  },
+  {
+    "code": "IA",
+    "regionName": "Черкаська область",
+    "centerCity": "Черкаси",
+    "allCodes": "CA, IA, RA"
+  },
+  {
+    "code": "RA",
+    "regionName": "Черкаська область",
+    "centerCity": "Черкаси",
+    "allCodes": "CA, IA, RA"
+  },
+  {
+    "code": "CB",
+    "regionName": "Чернігівська область",
+    "centerCity": "Чернігів",
+    "allCodes": "CB, IB, TV"
+  },
+  {
+    "code": "IB",
+    "regionName": "Чернігівська область",
+    "centerCity": "Чернігів",
+    "allCodes": "CB, IB, TV"
+  },
+  {
+    "code": "TV",
+    "regionName": "Чернігівська область",
+    "centerCity": "Чернігів",
+    "allCodes": "CB, IB, TV"
+  },
+  {
+    "code": "CE",
+    "regionName": "Чернівецька область",
+    "centerCity": "Чернівці",
+    "allCodes": "CE, IE"
+  },
+  {
+    "code": "IE",
+    "regionName": "Чернівецька область",
+    "centerCity": "Чернівці",
+    "allCodes": "CE, IE"
+  },
+  {
+    "code": "AK",
+    "regionName": "АР Крим",
+    "centerCity": "Сімферополь",
+    "allCodes": "AK, KK, MK"
+  },
+  {
+    "code": "KK",
+    "regionName": "АР Крим",
+    "centerCity": "Сімферополь",
+    "allCodes": "AK, KK, MK"
+  },
+  {
+    "code": "MK",
+    "regionName": "АР Крим",
+    "centerCity": "Сімферополь",
+    "allCodes": "AK, KK, MK"
+  },
+  {
+    "code": "CH",
+    "regionName": "м. Севастополь",
+    "centerCity": "Севастополь",
+    "allCodes": "CH, IH, MH"
+  },
+  {
+    "code": "IH",
+    "regionName": "м. Севастополь",
+    "centerCity": "Севастополь",
+    "allCodes": "CH, IH, MH"
+  },
+  {
+    "code": "MH",
+    "regionName": "м. Севастополь",
+    "centerCity": "Севастополь",
+    "allCodes": "CH, IH, MH"
+  }
+]
